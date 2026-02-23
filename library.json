@@ -759,5 +759,391 @@
     "subtone_g1_rr2": "subtone_g1_rr2.wav",
     "subtone_gb1_rr1": "subtone_gb1_rr1.wav",
     "subtone_gb1_rr2": "subtone_gb1_rr2.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "C#1",
+      "sample": "db1_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "C#1",
+      "sample": "db1_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D1",
+      "sample": "d1_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D1",
+      "sample": "d1_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D#1",
+      "sample": "eb1_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D#1",
+      "sample": "eb1_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "E1",
+      "sample": "e1_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "E1",
+      "sample": "e1_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F1",
+      "sample": "f1_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F1",
+      "sample": "f1_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F#1",
+      "sample": "gb1_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F#1",
+      "sample": "gb1_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G1",
+      "sample": "g1_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G1",
+      "sample": "g1_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G#1",
+      "sample": "ab1_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G#1",
+      "sample": "ab1_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A1",
+      "sample": "a1_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A1",
+      "sample": "a1_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A#1",
+      "sample": "bb1_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A#1",
+      "sample": "bb1_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "B1",
+      "sample": "b1_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "B1",
+      "sample": "b1_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "C2",
+      "sample": "c2_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "C2",
+      "sample": "c2_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "C#2",
+      "sample": "db2_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "C#2",
+      "sample": "db2_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D2",
+      "sample": "d2_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D2",
+      "sample": "d2_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D#2",
+      "sample": "eb2_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D#2",
+      "sample": "eb2_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "E2",
+      "sample": "e2_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "E2",
+      "sample": "e2_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F2",
+      "sample": "f2_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F2",
+      "sample": "f2_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F#2",
+      "sample": "gb2_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F#2",
+      "sample": "gb2_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G2",
+      "sample": "g2_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G2",
+      "sample": "g2_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G#2",
+      "sample": "ab2_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G#2",
+      "sample": "ab2_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A2",
+      "sample": "a2_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A2",
+      "sample": "a2_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A#2",
+      "sample": "bb2_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A#2",
+      "sample": "bb2_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "B2",
+      "sample": "b2_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "B2",
+      "sample": "b2_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "C3",
+      "sample": "c3_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "C3",
+      "sample": "c3_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "C#3",
+      "sample": "db3_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "C#3",
+      "sample": "db3_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D3",
+      "sample": "d3_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "d3_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D#3",
+      "sample": "eb3_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D#3",
+      "sample": "eb3_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "E3",
+      "sample": "e3_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "E3",
+      "sample": "e3_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F3",
+      "sample": "f3_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "f3_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F#3",
+      "sample": "gb3_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F#3",
+      "sample": "gb3_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G3",
+      "sample": "g3_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G3",
+      "sample": "g3_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G#3",
+      "sample": "ab3_looped_f",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G#3",
+      "sample": "ab3_looped_p",
+      "loVel": 0,
+      "hiVel": 63
+    }
+  ]
 }
